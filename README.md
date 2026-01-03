@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Akash M S</h1>
+<h3 align="center">Data Science & Web Development | Python | ML</h3>
 
-<!--
-**AkashMs24/AkashMs24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/AkashMs24">GitHub</a> •
+  <a href="https://linkedin.com/in/akashms01">LinkedIn</a> •
+  <a href="https://leetcode.com/u/Akash1-_/">LeetCode</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Student & passionate learner
+- 💻 Working on Data Analytics & ML projects
+- 🌱 Currently learning advanced Python & DSA
+- 🤝 Open to collaboration on real-world projects
+
+---
+
+### 🛠 Tech Stack
+**Languages:** Python, SQL, JavaScript  
+**Tools:** Pandas, NumPy, Power BI, Git, GitHub  
+**Web:** HTML, CSS, Flask  
+
+---
+
+### ⚡ Fun Fact
+I enjoy turning ideas into real projects 🚀
