@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Building data analytics & ML projects + a Smart Gym Form Monitoring system.<br><br>🤝 I’m looking to collaborate on:<br>Data Science, Machine Learning, Web Development, and impactful tech projects.<br><br>🤔 I’m looking for help with:<br>Advanced ML concepts, real-world project ideas, and internship guidance.<br><br>🌱 I’m currently learning:<br>Python | SQL | Power BI | Machine Learning | German 🧠<br><br>💬 Ask me about:<br>Data Analytics, Project Ideas, Hackathons, Career Roadmaps, Productivity 🔍<br><br>⚡ Fun fact:<br>I love turning random ideas into projects and I enjoy learning new skills 🚀<br>
+🔭 I’m currently working on:<br>Building data analytics & ML projects + a Fraud detection system.<br><br>🤝 I’m looking to collaborate on:<br>Data Science, Machine Learning, Web Development, and impactful tech projects.<br><br>🤔 I’m looking for help with:<br>Advanced ML concepts, real-world project ideas, and internship guidance.<br><br>🌱 I’m currently learning:<br>Python | SQL | Power BI | Machine Learning | German 🧠<br><br>💬 Ask me about:<br>Data Analytics, Project Ideas, Hackathons, Career Roadmaps, Productivity 🔍<br><br>⚡ Fun fact:<br>I love turning random ideas into projects and I enjoy learning new skills 🚀<br>
 
 
 ## 🌐 Socials:
