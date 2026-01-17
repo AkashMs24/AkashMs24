@@ -15,7 +15,14 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akashms01/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ms29akash@gmail.com) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:manigarakash@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=20" />
@@ -36,6 +43,14 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=20" />
 </p>
 
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/AkashMs24/Employee-Attrition">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkashMs24&repo=Employee-Attrition&theme=tokyonight" />
+  </a>
+</p>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AkashMs24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -47,6 +62,10 @@
 
 <p align="center">
    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=20" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashMs24&theme=tokyonight" />
 </p>
 
 
