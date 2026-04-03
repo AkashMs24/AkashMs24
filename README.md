@@ -22,6 +22,20 @@
   <a href="mailto:ms29akash@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://project-rv232-30exhwsu0-akashms24s-projects.vercel.app/" target="_blank" style="
+  display:inline-flex;
+  align-items:center;
+  gap:8px;
+  background:#0ea5e9;
+  color:white;
+  padding:10px 16px;
+  border-radius:6px;
+  text-decoration:none;
+  font-weight:600;
+  margin:5px;
+">
+  🌐 My Portfolio
+</a>
 </p>
 
 <p align="center">
