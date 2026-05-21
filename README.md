@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-m-s-414a21297)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akashms01)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://project-rv232-git-main-akashms24s-projects.vercel.app/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ms29akash@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-AkashMs24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkashMs24)
