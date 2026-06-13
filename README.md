@@ -1,130 +1,291 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1f12,100:0a0a0a&height=220&section=header&text=Akash%20M%20S&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=ML%20Engineer%20%E2%80%A2%20Explainable%20AI%20%E2%80%A2%20Research%20%40%20ICDAI%202026&descAlignY=62&descSize=16&descColor=4ade80"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:0d1f12,70:1a1a4e,100:0f0c29&height=300&section=header&text=AKASH%20M%20S&fontSize=82&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%E2%80%A2%20Explainable%20AI%20Specialist%20%E2%80%A2%20Research%20%40%20ICDAI%202026&descAlignY=58&descSize=17&descColor=4ade80&stroke=4ade80&strokeWidth=2"/>
 
 </div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=4ADE80&center=true&vCenter=true&width=650&height=40&lines=🏆+IdeaThon+2nd+Prize+%7C+FusionX+Social+Impact+Winner;📄+Research+Accepted+%40+ICDAI+2026+%2B+CoMSYS+2025;🧠+Building+AI+that+explains+its+own+decisions;⚡+Fresher+title.+Production+mindset.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2800&pause=700&color=4ADE80&center=true&vCenter=true&multiline=false&width=720&height=45&lines=🏆+IdeaThon+2nd+Prize+%7C+FusionX+Social+Impact+Winner;📄+Research+Accepted+%40+ICDAI+2026+%2B+CoMSYS+2025;⚡+Building+AI+that+justifies+every+decision+it+makes;🎯+Fresher+in+title.+Production+engineer+in+mindset.)
 
 </div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-akashms01-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akashms01)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-4ade80?style=for-the-badge&logo=vercel&logoColor=black)](https://akashms.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ms29akash@gmail.com)
-
-</div>
-
----
-
-## 🏆 Recognition
-
-<div align="center">
-
-| Award | Event | Year |
-|:------|:------|:----:|
-| 🥈 **2nd Prize** — Medical AI (MedVerify) | IdeaThon, Presidency University | 2024 |
-| 🌟 **Special Recognition** — Social Impact | FusionX Hackathon | 2024 |
-| 📄 **Research Accepted** — Explainable ML for Employee Attrition | ICDAI 2026 | 2025 |
-| 📄 **Research Accepted** — XAI Systems | CoMSYS 2025 | 2025 |
-
-</div>
-
----
-
-## 🚀 Featured Projects
 
 <br/>
 
-### 🛡️ [XAI Copilot — Loan Credit Risk Engine](https://github.com/AkashMs24/XAi-copilot)
-> **FastAPI + React + SHAP + LLM** — Explainable loan decisions with bias detection and what-if analysis. Not just a prediction — a justified decision with an audit trail.
-
-### 🔍 [Cost-Sensitive Fraud Detection System](https://github.com/AkashMs24/Cost-Sensitive-Real-Time-Fraud-Detection-Decision-System)
-> **XGBoost + SHAP + FastAPI** — Real-time fraud scoring with cost-sensitive thresholds. Optimizes for business loss, not just accuracy.
-
-### 🏥 [MedVerify — Medical Certificate Fraud Detection](https://github.com/AkashMs24/medverify) `🥈 IdeaThon 2nd Prize`
-> **Gemini API + JavaScript** — AI-powered verification system that detects forged medical certificates. Built for a real institutional pain point.
-
-### 👥 [Employee Attrition Risk — Research Project](https://github.com/AkashMs24/Employee-Attrition-Risk-Assessment-Using-Explainable-Machine-Learning) `📄 ICDAI 2026`
-> **Random Forest + SHAP + HR Analytics** — Tells HR not just *who* will leave, but *exactly why* — with actionable SHAP-driven explanations. Accepted at ICDAI 2026.
-
-### 🎙️ [SpeechFlow — Production Speech-to-Text](https://github.com/AkashMs24/speechflow)
-> **Groq Whisper API + WebSockets** — Live transcription with sub-second latency. Production-grade, mobile-responsive, real WebSocket architecture.
-
-### 📋 [CollabBoard — Real-Time Kanban Platform](https://github.com/AkashMs24/collabboard)
-> **Node.js + Socket.io + PostgreSQL + Groq AI** — Multi-user collaborative task board with live sync and AI task suggestions. Full-stack, production-deployed.
-
----
-
-## ⚙️ Stack
-
 <div align="center">
 
-**Core**
-`Python` `JavaScript` `SQL` `FastAPI` `Node.js` `React`
-
-**ML / AI**
-`scikit-learn` `XGBoost` `TensorFlow` `PyTorch` `SHAP` `spaCy` `HuggingFace`
-
-**LLM / APIs**
-`Claude API` `Gemini API` `Groq` `LangChain` `OpenAI`
-
-**Deploy**
-`Streamlit` `Vercel` `Render` `Docker` `PostgreSQL` `MongoDB`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akashms01)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-4ade80?style=for-the-badge&logo=vercel&logoColor=black)](https://akashms.vercel.app/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ms29akash@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-AkashMs24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkashMs24)
 
 </div>
 
+<br/>
+
 ---
 
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AkashMs24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=4ade80&text_color=c9d1d9&ring_color=4ade80&cache_seconds=1800"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashMs24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=c9d1d9&langs_count=6&cache_seconds=1800"/>
+## 🏆 `RECOGNITION & RESEARCH`
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashMs24&theme=tokyonight&hide_border=true&background=0d1117&ring=4ade80&fire=4ade80&currStreakLabel=4ade80&sideLabels=4ade80&dates=6b7280"/>
+<table>
+<tr>
+<td align="center" width="60"><b>🥈</b></td>
+<td><b>2nd Prize — IdeaThon</b> &nbsp;|&nbsp; MedVerify: AI-powered Medical Certificate Fraud Detection</td>
+<td align="center"><code>Presidency University · 2026</code></td>
+</tr>
+<tr>
+<td align="center"><b>🌟</b></td>
+<td><b>Special Recognition — Social Impact &nbsp;|&nbsp; FusionX Hackathon</b></td>
+<td align="center"><code>2026</code></td>
+</tr>
+<tr>
+<td align="center"><b>📄</b></td>
+<td><b>Research Accepted — ICDAI 2026</b> &nbsp;|&nbsp; Explainable ML for Employee Attrition Prediction</td>
+<td align="center"><code>Int'l Conference · 2026</code></td>
+</tr>
+<tr>
+<td align="center"><b>📄</b></td>
+<td><b>Research Accepted — CoMSYS 2025</b> &nbsp;|&nbsp; XAI Systems</td>
+<td align="center"><code>Int'l Conference · 2026</code></td>
+</tr>
+</table>
 
 </div>
 
+<br/>
+
 ---
 
-## 💬 What I Build
+<br/>
+
+<div align="center">
+
+## 🧠 `WHO AM I?`
+
+</div>
+
+```python
+#!/usr/bin/env python3
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+class AkashMS:
+    name        = "Akash M S"
+    role        = "ML Engineer · Explainable AI Specialist · Full-Stack AI Builder"
+    university  = "Presidency University, Bengaluru · B.Tech CSE — Data Science · 2025"
+    status      = "🟢 Actively seeking Full-time roles in ML / Data Science / AI"
+
+    awards = [
+        "🥈  IdeaThon 2nd Prize  →  MedVerify (Medical AI Fraud Detection)",
+        "🌟  FusionX Special Recognition  →  Social Impact Category",
+        "📄  ICDAI 2026 Accepted  →  Explainable ML for HR Attrition",
+        "📄  CoMSYS 2026 Accepted  →  XAI Systems Research",
+    ]
+
+    what_i_build = [
+        "🛡️  XAI systems where every prediction comes with a reason",
+        "🔍  Fraud & risk engines deployed in production (not just notebooks)",
+        "🤖  LLM-powered apps with real API integrations",
+        "📊  End-to-end ML pipelines: data → model → deploy → explain",
+    ]
+
+    superpowers = {
+        "core"     : ["Explainable AI (SHAP/LIME)", "Production ML", "LLM Engineering"],
+        "domains"  : ["Fraud & Risk", "HR Analytics", "AgriTech AI", "Healthcare AI", "NLP"],
+        "mantra"   : "A prediction without an explanation is just a confident guess.",
+    }
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<br/>
+
+---
+
+<br/>
+
+## 🚀 What I've Actually Shipped
+
+<br/>
+
+<div align="center">
+
+| # | Project | What It Solves | Stack | Live |
+|:--:|:--------|:---------------|:------|:----:|
+| 🥈 | **MedVerify** `IdeaThon 2nd Prize` | Detects forged medical certificates using AI — built for a real institutional pain point | `Gemini API` `JS` `AI` | [→](https://github.com/AkashMs24/medverify) |
+| 📄 | **Employee Attrition XAI** `ICDAI 2026` | Tells HR not just *who* will quit — but *exactly why*, with SHAP-driven action plans | `Random Forest` `SHAP` `Python` | [→](https://github.com/AkashMs24/Employee-Attrition-Risk-Assessment-Using-Explainable-Machine-Learning) |
+| 🧠 | **XAI Copilot** | Explainable loan credit risk — SHAP decisions, bias detection & LLM copilot in one app | `FastAPI` `React` `SHAP` `LLM` | [→](https://github.com/AkashMs24/XAi-copilot) |
+| 🛡️ | **Fraud Detection System** | Cost-sensitive real-time fraud scoring — optimizes for business loss, not just accuracy | `XGBoost` `SHAP` `FastAPI` | [→](https://github.com/AkashMs24/Cost-Sensitive-Real-Time-Fraud-Detection-Decision-System) |
+| 🔍 | **SCAMGUARD AI** | Detects fake job postings via NLP + ML with transparent risk scores & explainability | `NLP` `scikit-learn` `Streamlit` | [→](https://github.com/AkashMs24/Explainable-Job-Scam-Risk-Detection-System-) |
+| 🎙️ | **SpeechFlow** | Production-grade live speech-to-text with real WebSocket architecture & sub-second latency | `Groq Whisper` `WebSockets` `JS` | [→](https://github.com/AkashMs24/speechflow) |
+| 📋 | **CollabBoard** | Real-time multi-user Kanban with live sync, AI suggestions & full PostgreSQL backend | `Node.js` `Socket.io` `PostgreSQL` | [→](https://github.com/AkashMs24/collabboard) |
+| 📊 | **DecisionIQ BI** | LLM + ML for forecasting, anomaly detection & business intelligence in one platform | `LLM` `XGBoost` `Streamlit` | [→](https://github.com/AkashMs24/Decisioniq-ai-business-intelligence) |
+| 🌾 | **KrishiAI / FarmVoice** | Multilingual voice-powered crop advisory for Indian farmers using Claude API | `Claude API` `NLP` `Voice` | [→](https://github.com/AkashMs24/FarmVoice-AI) |
+| 🎯 | **Recommendation Engine** | Domain-agnostic, cold-start ready semantic recommender with full explainability | `TF-IDF` `NLP` `Streamlit` | [→](https://github.com/AkashMs24/Domain-Agnostic-Explainable-Recommendation-Engine-for-Cold-Start-Scenarios) |
+| 📈 | **A/B Testing Analysis** | Statistical evaluation of conversion uplift with hypothesis testing & confidence intervals | `Python` `Statistics` `Jupyter` | [→](https://github.com/AkashMs24/A-B-TESTING) |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## ⚡ Tech Stack
+
+<br/>
+
+<div align="center">
+
+**Languages**&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+**ML / AI / XAI**&nbsp;&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-8B5CF6?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**LLM / APIs**&nbsp;&nbsp;
+![Claude](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Backend & Deploy**&nbsp;&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Data & Viz**&nbsp;&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 📡 GitHub Stats
+
+<br/>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkashMs24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=6366f1&text_color=c9d1d9&ring_color=4ade80&cache_seconds=1800" alt="Akash's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashMs24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashMs24&theme=tokyonight&hide_border=true&background=0d1117&ring=4ade80&fire=4ade80&currStreakLabel=4ade80&sideLabels=4ade80&dates=6b7280" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AkashMs24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashMs24&bg_color=0d1117&color=4ade80&line=6366f1&point=ffffff&area=true&hide_border=true&area_color=6366f120" alt="Activity Graph"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 🎯 What I Stand For
 
 ```
-I don't just train models.
-I build systems that justify their decisions.
-
-Every project I ship has:
-  → A clear business problem it solves
-  → Explainability baked in (not bolted on)
-  → A deployed, working demo — not just a notebook
-
-"A prediction without explanation is just a confident guess."
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   "A prediction without explanation is just a confident guess."      ║
+║                                                                      ║
+║   "I don't train models. I build systems that justify decisions."    ║
+║                                                                      ║
+║   "Every dataset has a truth buried in it.                           ║
+║    My job is to make the model prove it."                            ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
+
+<br/>
 
 ---
 
-## 📬 Open To
+<br/>
 
-- Full-time roles in **Data Science / ML Engineering / AI**
-- Domains: **Fraud & Risk · Explainable AI · NLP · GenAI**
-- Remote and on-site across India
+## 🌐 Currently Open To
 
 <div align="center">
 
-[![Connect](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akashms01)
-[![Portfolio](https://img.shields.io/badge/See%20My%20Work-Portfolio-4ade80?style=for-the-badge&logo=vercel&logoColor=black)](https://akashms.vercel.app/)
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   🎯  Full-time · Data Science / ML Engineering / AI                ║
+║   📄  Research collaborations & open-source contributions           ║
+║   💡  Problems that need AI with accountability built in            ║
+║   🌍  Remote & on-site · Bengaluru and beyond                       ║
+║                                                                      ║
+║   Core domains:                                                      ║
+║   Explainable AI · Fraud & Risk · NLP · LLM Engineering             ║
+║   Healthcare AI · AgriTech · HR Analytics                           ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=AkashMs24&color=4ade80&style=flat-square&label=profile+views)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akashms01)&nbsp;
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ms29akash@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-4ade80?style=for-the-badge&logo=vercel&logoColor=black)](https://akashms.vercel.app/)
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=AkashMs24&color=4ade80&style=for-the-badge&label=PROFILE+VIEWS)&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/AkashMs24?style=for-the-badge&color=6366f1&logo=github&logoColor=white&label=FOLLOWERS)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1f12,100:0a0a0a&height=100&section=footer"/>
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:0d1f12,100:1a1a4e&height=120&section=footer&text=⭐%20Star%20a%20repo%20if%20it%20helped%20you!&fontSize=18&fontColor=4ade80&animation=fadeIn&fontAlignY=65"/>
+
+</div>
