@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2800&pause=700&color=4ADE80&center=true&vCenter=true&multiline=false&width=720&height=45&lines=🏆+IdeaThon+2nd+Prize+%7C+FusionX+Social+Impact+Winner;📄+Research+Accepted+%40+ICDAI+2026+%2B+CoMSYS+2025;⚡+Building+AI+that+justifies+every+decision+it+makes;🎯+Fresher+in+title.+Production+engineer+in+mindset.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2800&pause=700&color=4ADE80&center=true&vCenter=true&multiline=false&width=720&height=45&lines=🏆+IdeaThon+2nd+Prize+%7C+FusionX+Social+Impact+Winner;📄+Research+Accepted+%40+ICDAI+2026+%2B+CoMSYS+2026;⚡+Building+AI+that+justifies+every+decision+it+makes;🎯+Fresher+in+title.+Production+engineer+in+mindset.)
 
 </div>
 
@@ -43,7 +43,7 @@
 </tr>
 <tr>
 <td align="center"><b>🌟</b></td>
-<td><b>Special Recognition — Social Impact &nbsp;|&nbsp; FusionX Hackathon</b></td>
+<td><b>Special Recognition — Social Impact</b> &nbsp;|&nbsp; FusionX Hackathon</td>
 <td align="center"><code>2026</code></td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@
 </tr>
 <tr>
 <td align="center"><b>📄</b></td>
-<td><b>Research Accepted — CoMSYS 2025</b> &nbsp;|&nbsp; XAI Systems</td>
+<td><b>Research Accepted — CoMSYS 2026</b> &nbsp;|&nbsp; XAI Systems</td>
 <td align="center"><code>Int'l Conference · 2026</code></td>
 </tr>
 </table>
@@ -79,12 +79,12 @@
 class AkashMS:
     name        = "Akash M S"
     role        = "ML Engineer · Explainable AI Specialist · Full-Stack AI Builder"
-    university  = "Presidency University, Bengaluru · B.Tech CSE — Data Science · 2025"
+    university  = "Presidency University, Bengaluru · B.Tech CSE — Data Science · 2026"
     status      = "🟢 Actively seeking Full-time roles in ML / Data Science / AI"
 
     awards = [
-        "🥈  IdeaThon 2nd Prize  →  MedVerify (Medical AI Fraud Detection)",
-        "🌟  FusionX Special Recognition  →  Social Impact Category",
+        "🥈  IdeaThon 2nd Prize  →  MedVerify (Medical AI Fraud Detection)  · 2026",
+        "🌟  FusionX Special Recognition  →  Social Impact Category  · 2026",
         "📄  ICDAI 2026 Accepted  →  Explainable ML for HR Attrition",
         "📄  CoMSYS 2026 Accepted  →  XAI Systems Research",
     ]
@@ -152,6 +152,8 @@ class AkashMS:
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
+<br/>
+
 **ML / AI / XAI**&nbsp;&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=python&logoColor=white)
@@ -161,11 +163,15 @@ class AkashMS:
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
+<br/>
+
 **LLM / APIs**&nbsp;&nbsp;
 ![Claude](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+<br/>
 
 **Backend & Deploy**&nbsp;&nbsp;
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
@@ -175,6 +181,8 @@ class AkashMS:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+<br/>
 
 **Data & Viz**&nbsp;&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -192,14 +200,13 @@ class AkashMS:
 
 <br/>
 
-## 📡 GitHub Stats
+## 📊 GitHub Activity
 
 <br/>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkashMs24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=6366f1&text_color=c9d1d9&ring_color=4ade80&cache_seconds=1800" alt="Akash's GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashMs24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AkashMs24&bg_color=0d1117&color=4ade80&line=6366f1&point=4ade80&area=true&hide_border=true&area_color=4ade8020&custom_title=Akash%27s%20Contribution%20Graph)](https://github.com/AkashMs24)
 
 </div>
 
@@ -217,7 +224,8 @@ class AkashMS:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashMs24&bg_color=0d1117&color=4ade80&line=6366f1&point=ffffff&area=true&hide_border=true&area_color=6366f120" alt="Activity Graph"/>
+![Visitor Count](https://komarev.com/ghpvc/?username=AkashMs24&color=4ade80&style=for-the-badge&label=PROFILE+VIEWS)&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/AkashMs24?style=for-the-badge&color=6366f1&logo=github&logoColor=white&label=FOLLOWERS)
 
 </div>
 
@@ -256,13 +264,18 @@ class AkashMS:
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
 ║   🎯  Full-time · Data Science / ML Engineering / AI                ║
+║                                                                      ║
 ║   📄  Research collaborations & open-source contributions           ║
+║                                                                      ║
 ║   💡  Problems that need AI with accountability built in            ║
+║                                                                      ║
 ║   🌍  Remote & on-site · Bengaluru and beyond                       ║
 ║                                                                      ║
+║   ─────────────────────────────────────────────────────────         ║
+║                                                                      ║
 ║   Core domains:                                                      ║
-║   Explainable AI · Fraud & Risk · NLP · LLM Engineering             ║
-║   Healthcare AI · AgriTech · HR Analytics                           ║
+║   Explainable AI  ·  Fraud & Risk  ·  NLP  ·  LLM Engineering       ║
+║   Healthcare AI   ·  AgriTech      ·  HR Analytics                  ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
@@ -272,11 +285,6 @@ class AkashMS:
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akashms01)&nbsp;
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ms29akash@gmail.com)&nbsp;
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-4ade80?style=for-the-badge&logo=vercel&logoColor=black)](https://akashms.vercel.app/)
-
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=AkashMs24&color=4ade80&style=for-the-badge&label=PROFILE+VIEWS)&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/AkashMs24?style=for-the-badge&color=6366f1&logo=github&logoColor=white&label=FOLLOWERS)
 
 </div>
 
