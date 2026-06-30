@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:0d1f12,70:1a1a4e,100:0f0c29&height=300&section=header&text=AKASH%20M%20S&fontSize=82&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine Learning%20%E2%80%A2%20Explainable%20AI%20%E2%80%A2%20Research%20%40%20ICDAI%202026&descAlignY=58&descSize=17&descColor=4ade80&stroke=4ade80&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:0d1f12,70:1a1a4e,100:0f0c29&height=300&section=header&text=AKASH%20M%20S&fontSize=82&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MachineLearning%20%E2%80%A2%20Explainable%20AI%20%E2%80%A2%20Research%20%40%20ICDAI%202026&descAlignY=58&descSize=17&descColor=4ade80&stroke=4ade80&strokeWidth=2"/>
 
 </div>
 
