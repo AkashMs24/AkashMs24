@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2800&pause=700&color=4ADE80&center=true&vCenter=true&multiline=false&width=720&height=45&lines=🏆+IdeaThon+2nd+Prize+%7C+FusionX+Social+Impact+Winner;📄+Research+Accepted+%40+ICDAI+2026+%2B+CoMSYS+2026;⚡+Building+AI+that+justifies+every+decision+it+makes;🎯+Fresher+in+title.+Production+engineer+in+mindset.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2800&pause=700&color=4ADE80&center=true&vCenter=true&multiline=false&width=720&height=45&lines=🏆+IdeaThon+3rd+Prize+%7C+FusionX+Social+Impact+Winner;📄+Research+Accepted+%40+ICDAI+2026+%2B+CoMSYS+2026;⚡+Building+AI+that+justifies+every+decision+it+makes;🎯+Fresher+in+title.+Production+engineer+in+mindset.)
 
 </div>
 
@@ -83,7 +83,7 @@ class AkashMS:
     status      = "🟢 Actively seeking Full-time roles in ML / Data Science / AI"
 
     awards = [
-        "🥈  IdeaThon 2nd Prize  →  MedVerify (Medical AI Fraud Detection)  · 2026",
+        "🥈  IdeaThon 3rd Prize  →  MedVerify (Medical AI Fraud Detection)  · 2026",
         "🌟  FusionX Special Recognition  →  Social Impact Category  · 2026",
         "📄  ICDAI 2026 Accepted  →  Explainable ML for HR Attrition",
         "📄  CoMSYS 2026 Accepted  →  XAI Systems Research",
@@ -119,7 +119,7 @@ class AkashMS:
 
 | # | Project | What It Solves | Stack | Live |
 |:--:|:--------|:---------------|:------|:----:|
-| 🥈 | **MedVerify** `IdeaThon 2nd Prize` | Detects forged medical certificates using AI — built for a real institutional pain point | `Gemini API` `JS` `AI` | [→](https://github.com/AkashMs24/medverify) |
+| 🥈 | **MedVerify** `IdeaThon 3rd Prize` | Detects forged medical certificates using AI — built for a real institutional pain point | `Gemini API` `JS` `AI` | [→](https://github.com/AkashMs24/medverify) |
 | 📄 | **Employee Attrition XAI** `ICDAI 2026` | Tells HR not just *who* will quit — but *exactly why*, with SHAP-driven action plans | `Random Forest` `SHAP` `Python` | [→](https://github.com/AkashMs24/Employee-Attrition-Risk-Assessment-Using-Explainable-Machine-Learning) |
 | 🧠 | **XAI Copilot** | Explainable loan credit risk — SHAP decisions, bias detection & LLM copilot in one app | `FastAPI` `React` `SHAP` `LLM` | [→](https://github.com/AkashMs24/XAi-copilot) |
 | 🛡️ | **Fraud Detection System** | Cost-sensitive real-time fraud scoring — optimizes for business loss, not just accuracy | `XGBoost` `SHAP` `FastAPI` | [→](https://github.com/AkashMs24/Cost-Sensitive-Real-Time-Fraud-Detection-Decision-System) |
