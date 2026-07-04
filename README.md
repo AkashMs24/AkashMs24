@@ -38,7 +38,7 @@
 <table>
 <tr>
 <td align="center" width="60"><b>🥈</b></td>
-<td><b>2nd Prize — IdeaThon</b> &nbsp;|&nbsp; MedVerify: AI-powered Medical Certificate Fraud Detection</td>
+<td><b>3rd Prize — IdeaThon</b> &nbsp;|&nbsp; MedVerify: AI-powered Medical Certificate Fraud Detection</td>
 <td align="center"><code>Presidency University · 2026</code></td>
 </tr>
 <tr>
