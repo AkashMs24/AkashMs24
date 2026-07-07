@@ -56,6 +56,11 @@
 <td><b>Research Accepted — CoMSYS 2026</b> &nbsp;|&nbsp; XAI Systems</td>
 <td align="center"><code>Int'l Conference · 2026</code></td>
 </tr>
+<tr>
+<td align="center"><b>🏅</b></td>
+<td><b>Top 70 — 4th Innovative Project Expo</b> &nbsp;|&nbsp; World's Largest Innovative Project Expo</td>
+<td align="center"><code>Presidency University · 2024</code></td>
+</tr>
 </table>
 
 </div>
@@ -87,6 +92,7 @@ class AkashMS:
         "🌟  FusionX Special Recognition  →  Social Impact Category  · 2026",
         "📄  ICDAI 2026 Accepted  →  Explainable ML for HR Attrition",
         "📄  CoMSYS 2026 Accepted  →  XAI Systems Research",
+        "🏅  Top 70  →  4th Innovative Project Expo (World's Largest)  · 2024",
     ]
 
     what_i_build = [
@@ -236,8 +242,6 @@ class AkashMS:
 <br/>
 
 ## 🎯 What I Stand For
-
-```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
 ║   "A prediction without explanation is just a confident guess."      ║
@@ -248,7 +252,6 @@ class AkashMS:
 ║    My job is to make the model prove it."                            ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
-```
 
 <br/>
 
@@ -259,8 +262,6 @@ class AkashMS:
 ## 🌐 Currently Open To
 
 <div align="center">
-
-```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
 ║   🎯  Full-time · Data Science / ML Engineering / AI                ║
@@ -278,7 +279,6 @@ class AkashMS:
 ║   Healthcare AI   ·  AgriTech      ·  HR Analytics                  ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
-```
 
 <br/>
 
