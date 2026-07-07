@@ -242,6 +242,8 @@ class AkashMS:
 <br/>
 
 ## 🎯 What I Stand For
+
+```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
 ║   "A prediction without explanation is just a confident guess."      ║
@@ -252,6 +254,7 @@ class AkashMS:
 ║    My job is to make the model prove it."                            ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
+```
 
 <br/>
 
@@ -262,6 +265,8 @@ class AkashMS:
 ## 🌐 Currently Open To
 
 <div align="center">
+
+```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
 ║   🎯  Full-time · Data Science / ML Engineering / AI                ║
@@ -279,6 +284,7 @@ class AkashMS:
 ║   Healthcare AI   ·  AgriTech      ·  HR Analytics                  ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
+```
 
 <br/>
 
